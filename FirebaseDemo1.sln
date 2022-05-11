@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebaseDemo1", "FirebaseDemo1\FirebaseDemo1.csproj", "{C72DCB13-09E4-434F-995E-904B7F6C49FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebaseDemo1.Tests", "FirebaseDemo1.Tests\FirebaseDemo1.Tests.csproj", "{9364FFB1-AEE2-4C4A-BD23-6BE9729373D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PM.Library.Firebase", "PM.Library.Firebase\PM.Library.Firebase.csproj", "{5460E9A4-A337-4606-9E78-7FEEA2EBB541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebaseConsoleApplication", "FirebaseConsoleApplication\FirebaseConsoleApplication.csproj", "{6AD15FE0-8C2E-4613-B072-E81474718359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C72DCB13-09E4-434F-995E-904B7F6C49FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72DCB13-09E4-434F-995E-904B7F6C49FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72DCB13-09E4-434F-995E-904B7F6C49FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72DCB13-09E4-434F-995E-904B7F6C49FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9364FFB1-AEE2-4C4A-BD23-6BE9729373D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9364FFB1-AEE2-4C4A-BD23-6BE9729373D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9364FFB1-AEE2-4C4A-BD23-6BE9729373D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9364FFB1-AEE2-4C4A-BD23-6BE9729373D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5460E9A4-A337-4606-9E78-7FEEA2EBB541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5460E9A4-A337-4606-9E78-7FEEA2EBB541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5460E9A4-A337-4606-9E78-7FEEA2EBB541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5460E9A4-A337-4606-9E78-7FEEA2EBB541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD15FE0-8C2E-4613-B072-E81474718359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD15FE0-8C2E-4613-B072-E81474718359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD15FE0-8C2E-4613-B072-E81474718359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD15FE0-8C2E-4613-B072-E81474718359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
